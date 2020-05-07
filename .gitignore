@@ -24,6 +24,6 @@ dist/
 nbdist/
 .nb-gradle/
 .mvn/**
-ui/node_modules
+ui/node_modules/**
 ui/package-lock.json
 ui/dist/**
